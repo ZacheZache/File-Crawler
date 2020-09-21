@@ -1,2 +1,6 @@
 # File-Crawler
-Search for word in a filetree
+Search for a word in a filetree
+
+Made by:
+Zacharias Göransson
+Alexandra Nicklasson
